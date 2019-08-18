@@ -3,3 +3,4 @@
 - add
 - commit
 - push
+- checkout	: 	이전 시점으로 되돌리기
