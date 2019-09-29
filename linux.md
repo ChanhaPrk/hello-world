@@ -1,5 +1,3 @@
-<pre><code></code></pre>
-
 # 목록보기 ls
  - ls -a 숨긴파일까지 보기 
  - ls -l 자세히 보기
